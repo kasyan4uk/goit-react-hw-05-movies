@@ -2,7 +2,9 @@ import React from "react";
 
 const MoviesPage = () => {
     return (
-        <div>Search</div>
+        <>
+            <div>Search</div>
+        </>
     )
 };
 
