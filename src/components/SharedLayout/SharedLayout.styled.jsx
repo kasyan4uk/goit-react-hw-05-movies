@@ -9,7 +9,7 @@ export const Container = styled.div`
 
 export const Header = styled.header`
   padding: 5px 0;
-  border-bottom: 2px solid black;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 `;
 
 export const Nav = styled.nav`
